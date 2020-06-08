@@ -41,4 +41,5 @@ If you are interested in this simple app, you can add more pages by editing URLs
 To test this database, the advice is that use python shell to manipulate data. You can find useful information in Django documents or tutorials as well.
 
 **Warning**
+
 The administrator account of this web has been set already. If you want to create an account of your own, you may use `py manage.py createsuperuser`. Visit [Django Documents](https://docs.djangoproject.com/zh-hans/3.0/intro/tutorial02/) for more details.
