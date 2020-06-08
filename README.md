@@ -12,11 +12,11 @@ To use this web app, please read following parts.
 
 After cloned this project to your local directory, for example in `C:\Users\admin\Django`, the whole files structure seems like this(in the directory mentioned above):
 
-\+ mysite
-\+ polls
-\+ db.sqlite3
-\+ manage.py
-\+ README.md
+\+ mysite  
+\+ polls  
+\+ db.sqlite3  
+\+ manage.py  
+\+ README.md  
 
 Before everything starts, you should check your python version and Django packages.
 
